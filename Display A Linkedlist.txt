@@ -1,6 +1,0 @@
- public void display(){
-      for(Node temp = head; temp != null; temp = temp.next){
-        System.out.print(temp.data + " ");
-      }
-      System.out.println();
-    }
