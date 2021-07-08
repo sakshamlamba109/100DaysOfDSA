@@ -1,0 +1,47 @@
+public int GetFirst()
+{
+  if(size==0)
+{
+System.out.println("List is empty");
+return -1;
+}
+else
+{
+return head.data;
+}
+}
+
+
+
+public int GetLast()
+{
+if(size==0)
+{
+System.out.println("List is empty");
+return -1;
+}
+else
+{
+return tail.data;
+}
+}
+
+
+
+public int GetAt(int idx)
+{
+if(size==0)
+{
+System.out.println("List is empty");
+return -1;
+}
+else
+{ Node temp = head;
+ for (int i=0;i<idx;i++)
+{
+  temp=temp.next;
+}
+return temp.data;
+}
+}
+
