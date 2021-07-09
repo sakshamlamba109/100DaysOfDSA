@@ -1,0 +1,29 @@
+    public void addAt(int idx, int val){
+        
+        if(idx==0)
+        {
+            addFirst(val);
+        }
+        else if(idx==size())
+        {
+           addLast(val);
+        }
+        else if(idx>size()||idx<0)
+        {
+            System.out.println("Invalid arguments");
+        }
+        else
+        {   Node tem= head;
+            for(int i=0;i<idx-1;i++)
+            {
+            tem=tem.next;}
+            Node newadd=new Node();
+            newadd.data=val;
+            newadd.next=tem.next;
+            tem.next=newadd;
+            size++;
+           
+            
+        }
+      
+    }
