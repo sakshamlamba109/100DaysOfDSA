@@ -1,0 +1,12 @@
+public void remove_last()
+{
+ Node temp=head;
+for(int i=0;i<size-2;i++) 
+  
+ {
+  temp=temp.next;
+ }
+temp.next=null;
+tail=temp;
+size--;
+}
