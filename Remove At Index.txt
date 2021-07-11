@@ -1,0 +1,21 @@
+public void remove_at_index(int idx)
+{
+  
+  if(idx==0)
+{  removefirst();
+}
+else if(idx==size)
+{
+  removelast();
+}
+else
+{ 
+  Node temp=head;
+  for(int i=0;i<idx;i++)
+  {
+    temp=temp.next;
+  }
+  temp.next=temp.next.next;
+  temp.next.next=null;
+}
+}
