@@ -1,0 +1,29 @@
+private static Node NodeAtIdx(int idx)
+{  Node temp=head;
+   for(int i=0;i<idx;i++)
+   {
+      temp=temp.next;
+   }
+    
+   return temp
+}
+
+public static void reverse()
+{
+
+int li=0;
+int ri=size-1;
+
+while(li!=ri)
+{
+  Node left= NodeAtIdx(li);
+  Node right=NodeAtIdx(ri);
+  
+  Node temp=left;
+  left=right;
+  right=temp;
+  
+  li++;
+  ri--;
+}
+}
