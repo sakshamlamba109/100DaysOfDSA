@@ -1,0 +1,17 @@
+ public void reversePI() {
+      Node prev=head;
+      Node curr=prev.next;
+      Node temp;
+      for(int i=0;i<size-2;i++)
+      {
+           temp=curr.next;
+          curr.next=prev;
+          prev=curr;
+          curr=temp;
+      }
+      curr.next=prev;
+      head.next=null;
+      Node node=head;
+      head=tail;
+      tail=node;
+    }
