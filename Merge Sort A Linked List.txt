@@ -1,0 +1,26 @@
+private static Node midcal(Node head, Node tail)
+     {
+         Node s=head;
+         Node f=head;
+         while(f!=tail&& s.next!=tail)
+         {
+             f=f.next.next;
+             s=s.next;
+         }
+         return s;
+     }
+     
+    public static LinkedList mergeSort(Node head, Node tail){
+        if(head==tail)
+        {
+            LinkedList br=new LinkedList();
+            br.addLast(head.data);
+            return br;
+        }
+        Node mid= midcal(head,tail);
+        LinkedList fsh=mergeSort(head,mid);
+        LinkedList ssh=mergeSort(mid+1,tail);
+       LinkedList fl= mergeTwoSortedLists(fsh,ssh);  //code for merge two sorted lists is already updated in the Repo                                                                                  updated in the repo
+      return fl;
+    }
+  }
