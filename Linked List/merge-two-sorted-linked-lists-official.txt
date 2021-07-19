@@ -1,4 +1,5 @@
-public static LinkedList mergeTwoSortedLists(LinkedList l1, LinkedList l2) {
+public static LinkedList mergeTwoSortedLists(LinkedList l1, LinkedList l2)
+{
             Node t1=l1.head;
             Node t2=l2.head;
             LinkedList temp=new LinkedList();
@@ -29,5 +30,5 @@ public static LinkedList mergeTwoSortedLists(LinkedList l1, LinkedList l2) {
                 t2=t2.next;
             }
             return temp;
-        }
+}
     
