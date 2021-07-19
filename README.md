@@ -18,6 +18,7 @@
 | 13  | [Kth Node From End Of Linked List](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Linked%20List/Kth%20Node%20From%20End%20Of%20Linked%20List.txt)  |
 | 14  | [Mid Of Linked List](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Linked%20List/Mid%20Of%20Linked%20List.txt)  |
 | 15 | [Merge-two-sorted-linked-lists-](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Linked%20List/merge-two-sorted-linked-lists-official.txt)  |
-| 16  | [Merge Sort A Linked List](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Linked%20List/Merge%20Sort%20A%20Linked%20List.txt)  |
+| 16  | [Merge Sort A Linked List](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Linked%20List/Merge%20Sort%20A%20Linked%20List.txt) 
+[Remove Duplicates In A Sorted Linked List](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Linked%20List/Merge%20Sort%20A%20Linked%20List.txt) |
 
 
