@@ -21,5 +21,7 @@
 | 16  | [Merge Sort A Linked List](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Linked%20List/Merge%20Sort%20A%20Linked%20List.txt) |
 |      | [Remove Duplicates In A Sorted Linked List](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Linked%20List/Remove%20duplicates%20from%20a%20sorted%20Linked%20List.java) |
 | 17 | [Odd Even Linked List](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Linked%20List/Odd%20Even%20Linked%20List.java) |
+| 18 | [K-Reverse-LinkedList](https://github.com/sakshamlamba109/100DaysOfCode/blob/35a05b4cf7e76cf3b8741fc14c83ce39a1bf3767/Linked%20List/K-Reverse-LinkedList.java) |
+     | [Reverse-LinkedList-(Without actually reversing using recursion](https://github.com/sakshamlamba109/100DaysOfCode/blob/35a05b4cf7e76cf3b8741fc14c83ce39a1bf3767/Linked%20List/Display-Reverse-LinkedList.java) |
 
 
