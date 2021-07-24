@@ -24,5 +24,6 @@
 | 18 | [K-Reverse-LinkedList](https://github.com/sakshamlamba109/100DaysOfCode/blob/35a05b4cf7e76cf3b8741fc14c83ce39a1bf3767/Linked%20List/K-Reverse-LinkedList.java) |
 |    | [Reverse-using recursion](https://github.com/sakshamlamba109/100DaysOfCode/blob/35a05b4cf7e76cf3b8741fc14c83ce39a1bf3767/Linked%20List/Display-Reverse-LinkedList.java) |
 | 19 | [Reverse LinkedList using pointers](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Linked%20List/Reverse%20Linked%20List%20using%20pointer.java) |
+| 20 | [Is Linked List a Palindrome](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Linked%20List/Is%20Linked%20List%20a%20Palindrome.java) |
 
 
