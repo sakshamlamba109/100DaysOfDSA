@@ -26,5 +26,6 @@
 | 19 | [Reverse LinkedList using pointers](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Linked%20List/Reverse%20Linked%20List%20using%20pointer.java) |
 | 20 | [Is Linked List a Palindrome](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Linked%20List/Is%20Linked%20List%20a%20Palindrome.java) |
 |    | [Fold a Linked List](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Linked%20List/Fold%20a%20Linked%20List.java) |
+| 21 | [Intersection of Linked Lists](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Linked%20List/Intersection%20of%20Linked%20List.java) |
 
 
