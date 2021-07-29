@@ -37,5 +37,6 @@
 |     | [Size of a Generic Tree](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Size%20of%20a%20Generic%20Tree.java)  |
 | 23  |[Height of a Generic Tree](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Height%20of%20a%20Generic%20Tree.java) |
 |     | [Maximum node-data in a Generic Tree](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Maximum%20in%20Generic%20Trees.java)  |
+|     | [Traversal](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Generic%20Tree%20-%20Traversals%20(pre-order%2C%20Post-order).java)  |
 
 
