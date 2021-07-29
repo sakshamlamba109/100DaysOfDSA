@@ -35,5 +35,7 @@
 | ------------- | ------------- |
 | 22  |[Display a Generic Tree](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Display%20a%20Generic%20Tree.java) |
 |     | [Size of a Generic Tree](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Size%20of%20a%20Generic%20Tree.java)  |
+| 23  |[Height of a Generic Tree](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Height%20of%20a%20Generic%20Tree.java) |
+|     | [Maximum node-data in a Generic Tree](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Maximum%20in%20Generic%20Trees.java)  |
 
 
