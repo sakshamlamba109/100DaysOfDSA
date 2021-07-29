@@ -29,6 +29,11 @@
 | 21 | [Intersection of Linked Lists](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Linked%20List/Intersection%20of%20Linked%20List.java) |
 |    | [Add Two Linked Lists using recursion](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Linked%20List/Add%20two%20Linked%20Lists.java) |
 
+
 #Generic Trees
+| DAY  | PROBLEM |
+| ------------- | ------------- |
+| 22  |[Display a Generic Tree](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Display%20a%20Generic%20Tree.java) |
+|     | [Size of a Generic Tree](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Size%20of%20a%20Generic%20Tree.java)  |
 
 
