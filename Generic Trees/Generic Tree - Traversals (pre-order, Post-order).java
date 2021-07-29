@@ -1,4 +1,4 @@
-public static void treversal(Node node)
+public static void traversal(Node node)
 {
    System.out.println("Node Pre"+node.data);
 
