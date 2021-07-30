@@ -1,4 +1,4 @@
-public static void treversal(Node node)
+public static void traversal(Node node)
 {
    System.out.println("Node Pre"+node.data);
 
@@ -19,4 +19,7 @@ public static void treversal(Node node)
     return;
 
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> ab64840c3b3b44f01f437e3c942ee97fa5e39281
