@@ -42,6 +42,8 @@
 | 25  | [Level Order Linewise Generic Trees](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Levelorder%20Linewise%20in%20Generic%20Trees.java)  |
 | 26  | [Level Order Linewise Zig Zag ](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Levelorder%20Linewise%20Zig%20Zag.java)  |
 |     | [Mirror Image Generic Trees](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Mirror%20image%20of%20a%20Generic%20Tree.java)  |
+| 27  | [Remove Leaves in Generic Trees](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Remove%20Leaves%20in%20Generic%20Trees.java)  |
+|     | [Linearize a Generic Trees](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Linearize%20a%20Generic%20Tree.java)  |
 
 
 
