@@ -6,3 +6,4 @@ public static void mirror(Node node)
    }
    Collections.reverse(node.children);
 }
+
