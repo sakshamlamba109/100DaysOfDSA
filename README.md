@@ -44,6 +44,7 @@
 |     | [Mirror Image Generic Trees](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Mirror%20image%20of%20a%20Generic%20Tree.java)  |
 | 27  | [Remove Leaves in Generic Trees](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Remove%20Leaves%20in%20Generic%20Trees.java)  |
 |     | [Linearize a Generic Trees](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Linearize%20a%20Generic%20Tree.java)  |
+|  28 | [Find a node in Generic Trees](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Find%20data%20in%20Generic%20Tree.java)  |
 
 
 
