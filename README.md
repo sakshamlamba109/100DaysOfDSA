@@ -45,6 +45,7 @@
 | 27  | [Remove Leaves in Generic Trees](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Remove%20Leaves%20in%20Generic%20Trees.java)  |
 |     | [Linearize a Generic Trees](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Linearize%20a%20Generic%20Tree.java)  |
 |  28 | [Find a node in Generic Trees](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Find%20data%20in%20Generic%20Tree.java)  |
+|  29 | [Node To Root Path In Generic Tree](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Node%20To%20Root%20Path%20In%20Generic%20Tree.java)  |
 
 
 
