@@ -46,6 +46,8 @@
 |     | [Linearize a Generic Trees](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Linearize%20a%20Generic%20Tree.java)  |
 |  28 | [Find a node in Generic Trees](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Find%20data%20in%20Generic%20Tree.java)  |
 |  29 | [Node To Root Path In Generic Tree](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Node%20To%20Root%20Path%20In%20Generic%20Tree.java)  |
+|  30 | [Lowest Common Ancestor](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Lowest%20Common%20Ancestor%20in%20Generic%20Trees.java)  |
+|     | [Distance between two nodes](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Distance%20between%20the%20nodes.java)  |
 
 
 
