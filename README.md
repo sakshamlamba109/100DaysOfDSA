@@ -48,6 +48,7 @@
 |  29 | [Node To Root Path In Generic Tree](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Node%20To%20Root%20Path%20In%20Generic%20Tree.java)  |
 |  30 | [Lowest Common Ancestor](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Lowest%20Common%20Ancestor%20in%20Generic%20Trees.java)  |
 |     | [Distance between two nodes](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Distance%20between%20the%20nodes.java)  |
+|  31 | [Are Two Generic Trees Similar](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Are%20Generic%20Trees%20Similar.java)  |
 
 
 
