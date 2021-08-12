@@ -49,6 +49,9 @@
 |  30 | [Lowest Common Ancestor](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Lowest%20Common%20Ancestor%20in%20Generic%20Trees.java)  |
 |     | [Distance between two nodes](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Distance%20between%20the%20nodes.java)  |
 |  31 | [Are Two Generic Trees Similar](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Are%20Generic%20Trees%20Similar.java)  |
+|  32 | [Are Trees Mirror in Shape](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Are%20trees%20mirror%20in%20shape.java)  |
+|     | [Is Generic Tree Symmetric](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Is%20Generic%20Tree%20Symmetric.java)  |
+|     | [Predecessor and Successor](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/predecessor%20And%20Successor%20Of%20a%20Generic%20Tree.java)  |
 
 
 
