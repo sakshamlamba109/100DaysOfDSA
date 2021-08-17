@@ -52,6 +52,11 @@
 |  32 | [Are Trees Mirror in Shape](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Are%20trees%20mirror%20in%20shape.java)  |
 |     | [Is Generic Tree Symmetric](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Is%20Generic%20Tree%20Symmetric.java)  |
 |     | [Predecessor and Successor](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/predecessor%20And%20Successor%20Of%20a%20Generic%20Tree.java)  |
+|  33 | [Kth Largest Element](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Kth%20Largest%20Element%20in%20Generic%20Tree.java)  |
+|     | [Ceil and Floor in Generic Trees](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Ceil%20and%20Floor%20In%20a%20Generic%20Tree.java)  |
+|  34 | [Diameter of a Generic Tree](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Diameter%20of%20Generic%20Tree.java)  |
+|     | [Iterativee-preorder-postorder](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Iterative-preorder-postorder%20in%20Generic%20Trees.java)  |
+|     | [Node with maximum subtree sum](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Node%20With%20Maximum%20Subtree%20Sum.java)  |
 
 
 
