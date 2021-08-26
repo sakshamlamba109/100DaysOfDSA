@@ -59,7 +59,10 @@
 |     | [Node with maximum subtree sum](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Generic%20Trees/Node%20With%20Maximum%20Subtree%20Sum.java)  |
 
 #Binary Trees
-
+| DAY  | PROBLEM |
+| ------------- | ------------- |
+|  35 |[Size,Sum,Max,Height](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Size%2C%20Sum%2C%20Max_Value%2C%20Height%20in%20a%20Generic%20Tree.java) |
+|  36 |[Levelorder Traversal Of Binary Tree]() |
 
 
 
