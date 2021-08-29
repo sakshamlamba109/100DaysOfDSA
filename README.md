@@ -65,6 +65,7 @@
 |  36 |[Levelorder Traversal Of Binary Tree](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Levelorder%20Traversal%20Of%20Binary%20Tree.java) |
 |  37 |[Iterative-pre-post-in-binary-tree](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Iterative-pre-in-post-order%20in%20binary%20tree.java) |
 |  38 |[Node-To-Root-Path](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Node-To-Root-Path.java) |
+|  38 |[Node-To-Root-Path](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Node-To-Root-Path.java) |
 
 
 
