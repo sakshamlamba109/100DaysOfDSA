@@ -66,6 +66,8 @@
 |  37 |[Iterative-pre-post-in-binary-tree](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Iterative-pre-in-post-order%20in%20binary%20tree.java) |
 |  38 |[Node-To-Root-Path](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Node-To-Root-Path.java) |
 |  39 |[Print-K-Levels-Down](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Node-To-Root-Path.java) |
+|  40 |[Path-Leaf-From-Node](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Path-Leaf-From-Node.java) |
+|     |[Print-K-Nodes-Away](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Print-K-Nodes-Away.java) |
 
 
 
