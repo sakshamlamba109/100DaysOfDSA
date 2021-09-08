@@ -68,6 +68,7 @@
 |  39 |[Print-K-Levels-Down](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Node-To-Root-Path.java) |
 |  40 |[Path-Leaf-From-Node](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Path-Leaf-From-Node.java) |
 |     |[Print-K-Nodes-Away](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Print-K-Nodes-Away.java) |
+|   41|[Print-K-Nodes-Away](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Print-K-Nodes-Away.java) |
 
 
 
