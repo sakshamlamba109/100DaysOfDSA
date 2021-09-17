@@ -65,10 +65,10 @@
 |  36 |[Levelorder Traversal Of Binary Tree](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Levelorder%20Traversal%20Of%20Binary%20Tree.java) |
 |  37 |[Iterative-pre-post-in-binary-tree](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Iterative-pre-in-post-order%20in%20binary%20tree.java) |
 |  38 |[Node-To-Root-Path](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Node-To-Root-Path.java) |
-|  39 |[Print-K-Levels-Down](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Node-To-Root-Path.java) |
+|  39 |[Print-K-Levels-Down](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Print-K-Levels-Down.java) |
 |  40 |[Path-Leaf-From-Node](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Path-Leaf-From-Node.java) |
-|     |[Print-K-Nodes-Away](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Print-K-Nodes-Away.java) |
-|   41|[Print-K-Nodes-Away](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Print-K-Nodes-Away.java) |
+|  41 |[Print-K-Nodes-Away](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Print-K-Nodes-Away.java) |
+|  42 |[Print-Single-Child-nodes](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Print%20Single%20Child%20Nodes.java) |
 
 
 
