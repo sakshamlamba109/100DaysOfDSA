@@ -69,6 +69,7 @@
 |  40 |[Path-Leaf-From-Node](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Path-Leaf-From-Node.java) |
 |  41 |[Print-K-Nodes-Away](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Print-K-Nodes-Away.java) |
 |  42 |[Print-Single-Child-nodes](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Print%20Single%20Child%20Nodes.java) |
+|  43 |[Remove leaves from Binary Trees](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/Binary%20Trees/Remove-Leaves.java) |
 
 
 
