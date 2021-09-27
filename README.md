@@ -70,6 +70,7 @@
 |  41 |[Print-K-Nodes-Away](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Print-K-Nodes-Away.java) |
 |  42 |[Print-Single-Child-nodes](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Print%20Single%20Child%20Nodes.java) |
 |  43 |[Remove leaves from Binary Trees](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/Binary%20Trees/Remove-Leaves.java) |
+|  44 |[Diameter of a Binary Tree](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/Binary%20Trees/Diameter%20of%20a%20Binary%20Tree.java) |
 
 
 
