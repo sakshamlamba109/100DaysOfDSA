@@ -30,6 +30,8 @@
 |    | [Add Two Linked Lists using recursion](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Linked%20List/Add%20two%20Linked%20Lists.java) |
 
 
+
+
 #Generic Trees
 | DAY  | PROBLEM |
 | ------------- | ------------- |
@@ -71,6 +73,11 @@
 |  42 |[Print-Single-Child-nodes](https://github.com/sakshamlamba109/100DaysOfCode/blob/master/Binary%20Trees/Print%20Single%20Child%20Nodes.java) |
 |  43 |[Remove leaves from Binary Trees](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/Binary%20Trees/Remove-Leaves.java) |
 |  44 |[Diameter of a Binary Tree](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/Binary%20Trees/Diameter%20of%20a%20Binary%20Tree.java) |
+|  45 |[Tilt of a Binary Tree](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/Binary%20Trees/Tilt%20of%20a%20binary%20tree.java) |
+
+#Binary Search Trees
+| DAY  | PROBLEM |
+| ------------- | ------------- |
 
 
 
