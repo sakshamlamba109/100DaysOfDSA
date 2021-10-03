@@ -78,6 +78,8 @@
 #Binary Search Trees
 | DAY  | PROBLEM |
 | ------------- | ------------- |
+|  46 |[Size,Ma,Min,FindinBST](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/Binary%20Search%20Tree/Size%2C%20Sum%2C%20Max%2C%20Min%20and%20find%20in%20a%20BST.java) |
+
 
 
 
