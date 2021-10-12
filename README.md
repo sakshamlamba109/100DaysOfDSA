@@ -82,6 +82,7 @@
 |  47 |[Add node to BST](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/Binary%20Search%20Tree/Add%20node%20to%20BST.java) |
 |  48 |[Remove node from BST](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/Binary%20Search%20Tree/Remove%20Node%20in%20BST.java) |
 |  49 |[Replace with sum of larger in BST](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/Binary%20Search%20Tree/Replace%20with%20sum%20of%20larger.java) |
+|  50 |[Replace with sum of larger in BST](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/Binary%20Search%20Tree/Replace%20with%20sum%20of%20larger.java) |
 
 
 
