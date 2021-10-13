@@ -10,3 +10,4 @@
     sum+=node.data;
     rwsol(node.left);
   }
+
