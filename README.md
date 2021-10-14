@@ -83,6 +83,7 @@
 |  48 |[Remove node from BST](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/Binary%20Search%20Tree/Remove%20Node%20in%20BST.java) |
 |  49 |[Replace with sum of larger in BST](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/Binary%20Search%20Tree/Replace%20with%20sum%20of%20larger.java) |
 |  50 |[Lowest common ancestor in BST](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/Binary%20Search%20Tree/Lowest%20common%20ancestor%20in%20BST.java) |
+|  51 |[Lowest common ancestor in BST](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/Binary%20Search%20Tree/Lowest%20common%20ancestor%20in%20BST.java) |
 
 
 
