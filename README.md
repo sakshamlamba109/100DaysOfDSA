@@ -1,3 +1,5 @@
+This repository contains interview based questions on Data Structures in Java
+
 # 100DaysOfCode
 
 #LinkedLists
