@@ -86,6 +86,10 @@ This repository contains interview based questions on Data Structures in Java
 |  49 |[Replace with sum of larger in BST](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/Binary%20Search%20Tree/Replace%20with%20sum%20of%20larger.java) |
 |  50 |[Lowest common ancestor in BST](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/Binary%20Search%20Tree/Lowest%20common%20ancestor%20in%20BST.java) |
 
+#HshMap
+| DAY  | PROBLEM |
+| ------------- | ------------- |
+|  51 |[Highest Frequency Character](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/HashMap/Highest%20Frequency%20Character.java.txt) |
 
 
 
