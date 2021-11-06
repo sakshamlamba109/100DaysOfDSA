@@ -90,6 +90,7 @@ This repository contains interview based questions on Data Structures in Java
 | DAY  | PROBLEM |
 | ------------- | ------------- |
 |  51 |[Highest Frequency Character](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/HashMap/Highest%20Frequency%20Character.java.txt) |
+|  52 |[Get common elements](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/HashMap/Highest%20Frequency%20Character.java.txt) |
 
 
 
