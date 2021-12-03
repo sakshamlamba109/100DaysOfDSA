@@ -93,6 +93,7 @@ This repository contains interview based questions on Data Structures in Java
 |  52 |[Get common elements-1](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/HashMap/Get%20Common%20Element-1.java) |
 |  53 |[Get common elements-2](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/HashMap/Get%20Common%20Elements-2.java) |
 |  54 |[Longest Consecutive Sequence](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/HashMap/Longest%20Consecutive%20Sequence.java) |
+|  55 |[K-Largest Elements in an array](https://github.com/sakshamlamba109/100DaysOfDSA/blob/master/HashMap/K-Largest-Elements%20in%20an%20array.java) |
 
 
 
