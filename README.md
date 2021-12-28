@@ -1,4 +1,4 @@
-This repository contains interview based questions on Data Structures in Java
+This repository contains interview based coding questions on Data Structures in Java
 
 # 100DaysOfCode
 
